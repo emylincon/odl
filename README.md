@@ -1,2 +1,5 @@
-# odl
-odl build
+# opendaylight build
+
+run file as sudo
+
+
