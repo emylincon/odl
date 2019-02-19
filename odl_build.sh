@@ -1,6 +1,6 @@
 apt update -y && apt upgrade -y
 apt install wget -y
-path=https://nexus.opendaylight.org/content/repositories/public/org/opendaylight/integration/distribution-karaf/0.4.4-Beryllium-SR4/distribution-karaf-0.4.4-Beryllium-SR4.tar.gz
+path="https://nexus.opendaylight.org/content/repositories/public/org/opendaylight/integration/distribution-karaf/0.4.4-Beryllium-SR4/distribution-karaf-0.4.4-Beryllium-SR4.tar.gz"
 wget $path
 tar -xvf distribution-karaf-0.4.4-Beryllium-SR4.tar.gz
 mv distribution-karaf-0.4.4-Beryllium-SR4 odl
