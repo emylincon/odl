@@ -2,6 +2,15 @@
 # opendaylight build
 
 run file as sudo
+## To start the odl server
+```
+./bin/karaf -of13
+```
+if you the docker hub image => https://hub.docker.com/repository/docker/ugwuanyi/odl
+```
+cd /home/odl1/odl/bin/
+./karaf -of13
+```
 
 ## To login to odl
 
