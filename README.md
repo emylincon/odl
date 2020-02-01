@@ -6,7 +6,7 @@ run file as sudo
 ```
 ./bin/karaf -of13
 ```
-if you the docker hub image => https://hub.docker.com/repository/docker/ugwuanyi/odl
+if you have the odl docker image from dockerhub => https://hub.docker.com/repository/docker/ugwuanyi/odl
 ```
 cd /home/odl1/odl/bin/
 ./karaf -of13
